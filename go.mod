@@ -1,3 +1,3 @@
-module random123
+module sei7
 
 go 1.20
